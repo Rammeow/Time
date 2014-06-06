@@ -3,184 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#: main_gui_network:52
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-06 11:27+0400\n"
+"POT-Creation-Date: 2014-06-03 02:43+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: main_gui_network:3
-msgid "HOST=localhost"
-msgstr ""
-
-#: main_gui_network:4
-msgid "PORT=4321"
-msgstr ""
-
-#: main_gui_network:6
-msgid "FILE1=/tmp/main1"
-msgstr ""
-
-#: main_gui_network:7
-msgid "FILE2=/tmp/main2"
-msgstr ""
-
-#: main_gui_network:8
-msgid "ERROR=/tmp/main-err"
-msgstr ""
-
-#: main_gui_network:10
-msgid "GETTEXT=gettext -d main_gui_network"
-msgstr ""
-
-#: main_gui_network:13 main_gui_network:26 main_gui_network:36
-msgid "help"
-msgstr ""
-
-#: main_gui_network:13 main_gui_network:17
-msgid "{"
-msgstr ""
-
-#: main_gui_network:14
-msgid "echo"
-msgstr ""
-
-#: main_gui_network:15 main_gui_network:20
-msgid "}"
-msgstr ""
-
-#: main_gui_network:17 main_gui_network:46 main_gui_network:52
-msgid "end"
-msgstr ""
-
-#: main_gui_network:18
-msgid "rm"
-msgstr ""
-
-#: main_gui_network:18
-msgid "-f"
-msgstr ""
-
-#: main_gui_network:19 main_gui_network:27 main_gui_network:37
-#: main_gui_network:56
-msgid "exit"
-msgstr ""
-
-#: main_gui_network:22 main_gui_network:24 main_gui_network:49
-msgid "if"
-msgstr ""
-
-#: main_gui_network:22 main_gui_network:24 main_gui_network:31
-#: main_gui_network:34
-msgid "["
-msgstr ""
-
-#: main_gui_network:22 main_gui_network:31
-msgid "-eq"
-msgstr ""
-
-#: main_gui_network:22
-msgid "1"
-msgstr ""
-
-#: main_gui_network:22 main_gui_network:24 main_gui_network:31
-#: main_gui_network:34
-msgid "]"
-msgstr ""
-
-#: main_gui_network:23 main_gui_network:25 main_gui_network:32
-#: main_gui_network:35 main_gui_network:50
-msgid "then"
-msgstr ""
-
-#: main_gui_network:24
-msgid "="
-msgstr ""
-
-#: main_gui_network:24
-msgid "--help"
-msgstr ""
-
-#: main_gui_network:27 main_gui_network:37 main_gui_network:56
-msgid "-1"
-msgstr ""
-
-#: main_gui_network:28 main_gui_network:54
-msgid "else"
-msgstr ""
-
-#: main_gui_network:30 main_gui_network:38 main_gui_network:57
-msgid "fi"
-msgstr ""
-
-#: main_gui_network:31 main_gui_network:34
-msgid "elif"
-msgstr ""
-
-#: main_gui_network:31
-msgid "2"
-msgstr ""
-
-#: main_gui_network:34
-msgid "-ge"
-msgstr ""
-
-#: main_gui_network:34
-msgid "3"
-msgstr ""
-
-#: main_gui_network:43
-msgid "while"
-msgstr ""
-
-#: main_gui_network:43
-msgid "true"
-msgstr ""
-
-#: main_gui_network:44
-msgid "do"
-msgstr ""
-
-#: main_gui_network:46 main_gui_network:51 main_gui_network:52
-#: main_gui_network:55
-msgid "zenity"
-msgstr ""
-
-#: main_gui_network:46
-msgid "--entry"
-msgstr ""
-
-#: main_gui_network:46
-msgid "--entry-text=type"
-msgstr ""
-
-#: main_gui_network:46 main_gui_network:51 main_gui_network:52
-#: main_gui_network:55
-msgid "--text"
-msgstr ""
 
 #: main_gui_network:46
 msgid "Insert Continent(Space)City:"
-msgstr ""
-
-#: main_gui_network:49 main_gui_network:51
-msgid "cat"
-msgstr ""
-
-#: main_gui_network:51 main_gui_network:55
-msgid "--info"
-msgstr ""
-
-#: main_gui_network:51 main_gui_network:52 main_gui_network:55
-msgid "--title"
 msgstr ""
 
 #: main_gui_network:51
@@ -188,21 +25,9 @@ msgid "Current Time and Date:"
 msgstr ""
 
 #: main_gui_network:52
-msgid "--question"
-msgstr ""
-
-#: main_gui_network:52
 msgid "Continue?"
 msgstr ""
 
 #: main_gui_network:55
-msgid "Alert"
-msgstr ""
-
-#: main_gui_network:55
-msgid "Error: Service not running ??"
-msgstr ""
-
-#: main_gui_network:59
-msgid "done"
+msgid "Error:"
 msgstr ""
